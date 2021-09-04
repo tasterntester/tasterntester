@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **niteshghorpade1234@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K1fpLr0v4AcZ7PQh01a4U2MUEUjhDFY1/view?usp=sharing](https://drive.google.com/file/d/1K1fpLr0v4AcZ7PQh01a4U2MUEUjhDFY1/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1K1fpLr0v4AcZ7PQh01a4U2MUEUjhDFY1/view?usp=sharing" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956170-1650533.png" alt="nitesh-ghorpade" height="30" width="40" /></a>
 
 - ⚡ Fun fact **I love to spend time with COOKING and WATCH MOVIES/SERIES.**
 
