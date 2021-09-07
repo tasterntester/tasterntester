@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I love to spend time with COOKING and WATCH MOVIES/SERIES.**
 
 
-<a href="" target="_blank"> <img src="https://algoworksupload.s3.amazonaws.com/new-algoworks/wp-content/uploads/2016/05/16105109/Software-Test-Management.gif" width="1098" height="449"/> </a>
+<a href="" target="_blank"> <img src="https://algoworksupload.s3.amazonaws.com/new-algoworks/wp-content/uploads/2016/05/16105109/Software-Test-Management.gif" /> </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
