@@ -9,7 +9,7 @@
 
 - 👯 I’m looking **for a full time job or an internship opportunities related to my skills.**
 
-- 🐱‍👤 I know **Manual Testing Techniques, Java, HTML5, CSS3, JavaScript, SQL.**
+- 🐱‍👤 I know **Manual Testing Techniques, Java, Selenium, HTML5, CSS3, JavaScript, SQL.**
 
 - 🚩 Next in Learning path: **TestNG, Jenkins, Maven, Cucumber.**
 
