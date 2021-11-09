@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasterntester&label=Profile%20views&color=0e75b6&style=flat" alt="tasterntester" /> </p>
 
-- 🔭 I’m currently working on **My personal AUTOMATIONG TESTING PROGRAMMING and MANUAL TESTING TEST CASES.**
+- 🔭 I’m currently working on **My Personal AUTOMATIONG TESTING PROGRAMMING and MANUAL TESTING TEST CASES.**
 
 - 🌱 I’m currently learning **learning Automation Testing (Selenium Java)**
 
