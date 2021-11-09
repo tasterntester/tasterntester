@@ -9,9 +9,9 @@
 
 - 👯 I’m looking **for a full time job or an internship opportunities related to my skills.**
 
-- 🐱‍👤 I know **Manual Testing Techniques, Java, Selenium, HTML5, CSS3, JavaScript, SQL.**
+- 🐱‍👤 I know **Manual Testing Techniques, Java, Selenium, HTML5, CSS3, JavaScript, mySQL, TestNG.**
 
-- 🚩 Next in Learning path: **TestNG, Jenkins, Maven, Cucumber.**
+- 🚩 Next in Learning path: **Jenkins, Maven, Cucumber.**
 
 - 📫 How to reach me **niteshghorpade1234@gmail.com**
 
